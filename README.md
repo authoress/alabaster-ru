@@ -1,2 +1,1 @@
-# alabaster-ru
-Russiuan translation for Alabaster docs
+Перевод документации для Alabaster на русский язык. Готовый перевод будет выложен на geekwriter.ru.

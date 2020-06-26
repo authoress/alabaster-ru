@@ -1,0 +1,15 @@
+div.sphinxsidebarwrapper  hr {
+    display: none
+}
+
+div.sphinxsidebarwrapper>h3 {
+    display: none
+}
+
+form.search input[type="submit"]{
+	display: none
+}
+
+#searchlabel {
+	font-size: 150%
+}

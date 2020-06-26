@@ -66,7 +66,7 @@
 
 * Смотрите `документацию Sphinx
   <http://sphinx-doc.org/config.html#confval-html_sidebars>`_, чтобы узнать больше о том,
-  как работает эта настройка.
+  как работает этот параметр.
 * Alabaster предоставляет ``about.html`` (логотип, кнопка github и краткое описание проекта),
   ``donate.html`` (кнопки / ссылки для пожертвований и поддержки) и ``navigation.html``
   (более гибкая версия встроенных шаблонов ``localtoc`` и ``globaltoc``).
@@ -80,9 +80,9 @@
 
 Если вы используете какой-либо из параметров изображений, перечисленных в разделе :doc:`customization`
 (``logo`` или ``touch-icon``), или :ref:`пользовательскую таблицу стилей <custom-stylesheet>`,
-вам также нужно указать Sphinx, откуда взять эти файлы. Если так, добавьте
+вам также нужно указать Sphinx, откуда взять соответствующие файлы. Если так, добавьте
 вот такую строку (изменив пути, если необходимо; см. `документацию Sphinx для
-'html_static_path'
+"html_static_path"
 <http://sphinx-doc.org/config.html?highlight=static#confval-html_static_path>`_) в ваш ``conf.py``:
 
 .. code-block:: python

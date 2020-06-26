@@ -64,7 +64,8 @@ html_static_path = ['_static']
 html_theme_options = {
 	'description': 'Документация для Alabaster на <a href="http://geekwriter.ru/">GeekWriter.ru</a>',
 	'github_user': 'authoress',
-	'github_repo': 'alabaster-ru'	
+	'github_repo': 'alabaster-ru',
+	'fixed_sidebar' : True
 }
 
 html_css_files = [

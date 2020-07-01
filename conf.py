@@ -76,4 +76,4 @@ html_show_sourcelink = False
 
 html_copy_source = False
 
-html_title = 'geekwriter.ru'
+html_title = 'Документация Alabaster на русском'
